@@ -49,7 +49,7 @@ Docs/html
 
 ## CMake build cache
 build
-
+Workspace/
 ## IDE files
 .idea/
 cmake-build-*/
